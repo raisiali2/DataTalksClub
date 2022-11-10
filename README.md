@@ -1,2 +1,0 @@
-# Demo
-data talks project!
